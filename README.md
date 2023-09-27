@@ -4,6 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Inspecting Network Protocols](https://github.com/merrickam/azure-network-protocols)
+- <b>Pixel 4a</b>
+  - [Rooting Pixel 4a v13.0](https://github.com/merrickam/pixel-4a-root)
 
 <h2>Reach out:</h2>
 
